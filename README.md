@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Srushti Poriwade</h1>
-<h3 align="center">A passionate Computer Engineering student, Developer & Innovator from India</h3>
+<h3 align="center">A passionate Computer Engineering student, Developer & Innovator</h3>
 
-- 🌱 I’m currently pursuing **B.E. in Computer Engineering at VESIT** (CGPI: 9.54 till Sem-IV)
+- 🌱 I’m currently pursuing **B.E. in Computer Engineering at VESIT** 
 
 - 👨‍💻 All of my projects are available at [My GitHub](https://github.com/SRUSHTI52)
 
@@ -15,7 +15,6 @@
 
 ### 🛠️ Languages and Tools:
 <p>
-  <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Kotlin-0095D5?style=flat&logo=kotlin&logoColor=white"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
@@ -25,14 +24,19 @@
   <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white"/>
+   <img src="https://img.shields.io/badge/Numpy-013243?style=flat&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat&logo=google-colab&logoColor=white"/>
 </p>
 
 ---
 
 ### 🧠 Projects & Highlights:
-- 🌦️ [**Weather App**](https://github.com/SRUSHTI52/Weatherapp): A web app providing live weather updates using OpenWeatherAPI.
-- 🧮 [**Fun Math**](https://github.com/SRUSHTI52/fun_math): An interactive Android math quiz game.
-- 🔒 [**CAPTCHA Maker and Checker**](https://github.com/SRUSHTI52/CAPTCHA-MAKER-AND-CHECKER): A secure CAPTCHA system using Flask and gTTS.
 - 🧾 [**ScanEase**](https://github.com/SRUSHTI52/ScanEase): QR and barcode scanner & generator app.
 - 🍴 [**FoodApp**](https://github.com/SRUSHTI52/FoodApp): A food ordering platform with user and admin panels.
 - ✈️ [**Tour-o-Partner**](https://github.com/SRUSHTI52/tour-o-partner): Web app for travel discovery and wishlist.
@@ -43,8 +47,10 @@
 ---
 
 ### 🏆 Achievements
-- 🥇 **Gold (5⭐) Badge in Python** on HackerRank
-- 🥉 3rd Position – Technical Paper Presentation Contest @ VESIT
+- 🥇 **Gold (5⭐) Badge in Python** on HackerRank  
+- 🟡 **4⭐ Badge in SQL** on HackerRank  
+- 🥉 **3rd Position – Technical Paper Presentation Contest** @ VESIT  
+- 🥉 **3rd Position – Pradarshini Project Competition** @ VESIT  
 - 📄 Published paper at **ICIPCN 2024**
 
 ---
@@ -53,17 +59,6 @@
 - 👩‍💻 **SDE Intern** at SR Counselling India (Dec 2024 – Present)
 - 💻 **Frontend Developer Intern** at GrapplTech (July 15 – Aug 15, 2024)
 - 📱 **Android Developer Intern** at Prodigy Infotech (May 15 – June 15, 2024)
-
----
-
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SRUSHTI52&show_icons=true&theme=tokyonight" alt="Srushti's GitHub Stats" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=SRUSHTI52&theme=tokyonight" alt="GitHub Streak" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SRUSHTI52&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
 
 ---
 
