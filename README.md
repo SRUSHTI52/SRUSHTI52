@@ -48,7 +48,7 @@
 
 ### 🏆 Achievements
 - 🥇 **Gold (5⭐) Badge in Python** on HackerRank  
-- 🟡 **4⭐ Badge in SQL** on HackerRank  
+- 🟡 **Gold (5⭐) Badge in SQL** on HackerRank  
 - 🥉 **3rd Position – Technical Paper Presentation Contest** @ VESIT  
 - 🥉 **3rd Position – Pradarshini Project Competition** @ VESIT  
 - 📄 Published paper at **ICIPCN 2024**
