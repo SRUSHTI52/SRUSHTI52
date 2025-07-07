@@ -40,7 +40,7 @@
 - 🧾 [**ScanEase**](https://github.com/SRUSHTI52/ScanEase): QR and barcode scanner & generator app.
 - 🍴 [**FoodApp**](https://github.com/SRUSHTI52/FoodApp): A food ordering platform with user and admin panels.
 - ✈️ [**Tour-o-Partner**](https://github.com/SRUSHTI52/tour-o-partner): Web app for travel discovery and wishlist.
-- 🛍️ [**Shopping Site with AIML**](https://github.com/SRUSHTI52/ey_suvidhaAI/tree/main/backend): A shopping experience powered by AI/ML.
+- 🛍️ [**Aura Attire**](https://github.com/SRUSHTI52/ey_suvidhaAI/tree/main/backend): A shopping experience powered by AI/ML.
 - 🕶️ [**Try-On App**](https://github.com/SRUSHTI52/TRYON): Real-time virtual glasses try-on with face detection.
 - 🇮🇳 [**SuvidhaAI**](https://github.com/SRUSHTI52/ey_suvidhaAI): Recommender System for Indian government schemes.
 
